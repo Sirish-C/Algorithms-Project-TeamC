@@ -18,10 +18,12 @@ Gives the minimum distance to travel between the edges of the cities.
 
 ## Demo Output
 - Enter which algorithm to apply image
-![image](https://github.com/Sirish-C/Algorithms-Project-TeamC/assets/151453614/3db9a55b-5e35-473e-b31e-04020bd70435)
+![image](https://github.com/Sirish-C/Algorithms-Project-TeamC/assets/151453614/3af0ef5e-b243-46b7-b8ae-ce82ccc235d1)
 
 - Gives the Minimum distance as a output image
-![image](https://github.com/Sirish-C/Algorithms-Project-TeamC/assets/151453614/aaf553af-51d1-4a17-998e-593999f30682)
+![image](https://github.com/Sirish-C/Algorithms-Project-TeamC/assets/151453614/caaa637c-4aad-4744-bd41-1994b37929e3)
+
+
 
 
 ## Input
